@@ -29,17 +29,4 @@
       ]
     }
   ],
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "has": [
-        {
-          "type": "host",
-          "value": "www.callgirlingurgaon.co.in"
-        }
-      ],
-      "destination": "https://callgirlingurgaon.co.in/$1",
-      "permanent": true
-    }
-  ]
 }
